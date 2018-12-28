@@ -1,0 +1,12 @@
+body {
+    background-color: #A5AFD4;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#sectionOdd{
+    background-color: #FFB60F;
+    text-align: CENTER;
+    padding: 25px;
+    max-width: 14in;
+    margin: auto;
+}
